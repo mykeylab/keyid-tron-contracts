@@ -10,14 +10,14 @@ MYKEY smart contracts addresses on Mainnet and Testnet:
 
 Contract     | Mainnet Address  | Nile Testnet Address
 ------------- | ------------- | ------------- 
-Account  |  | TCYm9jB3Ya2NMRq8R2xVppw9bYkH1aTead
-AccountCreator  |  | TScdF5Sch1Ubm1mvsP1movGXxaaFFQV8Su
-AccountStorage  |  | TWkyVjWvwxnzv7JsZ1tmmWTwuXhr6hBMNG
-LogicManager  |  | TNCmizmtGWBTVZB3BCNgAqTiQNeCb4pNGC
-AccountLogic  |  | TUi7afKckd7KqcepNqM5B7CsSYwDKYBuw5
-TransferLogic  |  | TM53Bm7RinsYqCCtYtLL7H46fCFrdK8aaW
-DualsigsLogic  |  | TPxNufQKS1houPsF5cFFtWs1sgdPCokEJb
-DappLogic  |  | TPaYT4336KV6xvNoeB9AKYvWnwEwbXyTck
-ProposalLogic |  | TTwXhNX8LVx63GbryEjSRJP7uxeAoR8STp
-CommonStaticLogic |  | TG5HHywtkQBi5r6A1Zfb6PhsqMMovX6uzw
+Account  | TMzsBaXxLaVJfY2XGJHWVk7qXKHj1nSE3t | TCYm9jB3Ya2NMRq8R2xVppw9bYkH1aTead
+AccountCreator  | TQMnR7SVaeSB7MqNKTdDA16oUKRPvtJ32c | TScdF5Sch1Ubm1mvsP1movGXxaaFFQV8Su
+AccountStorage  | TPySxtwcTtkSTjqAKSBztMvvaqJhjNBH1k | TWkyVjWvwxnzv7JsZ1tmmWTwuXhr6hBMNG
+LogicManager  | TLBAvGUD7CGYHHvCabpPvG3PyfbpLLashn | TNCmizmtGWBTVZB3BCNgAqTiQNeCb4pNGC
+AccountLogic  | TFspRMdEStbHMhhUGVQKp2LHtcWdaFBhkZ | TUi7afKckd7KqcepNqM5B7CsSYwDKYBuw5
+TransferLogic  | TSx9LjRfby8eyjCjR1X6QQp9uRcnbEiBbV | TM53Bm7RinsYqCCtYtLL7H46fCFrdK8aaW
+DualsigsLogic  | TVUr7F92J6aQAkqA2qJ9Ln1GC3aY5xdzwc | TPxNufQKS1houPsF5cFFtWs1sgdPCokEJb
+DappLogic  | TALqTKFztoqz2fGvbxcHEbwPEoJfW11CpY | TPaYT4336KV6xvNoeB9AKYvWnwEwbXyTck
+ProposalLogic | TUtNLh2qfMkkWCsEAbTsLwihNTbLYwkdL1 | TTwXhNX8LVx63GbryEjSRJP7uxeAoR8STp
+CommonStaticLogic | TKgdWguYQ8hTd6sZaJbM9fLawmEqJtzaTh | TG5HHywtkQBi5r6A1Zfb6PhsqMMovX6uzw
 
